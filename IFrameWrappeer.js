@@ -35,4 +35,4 @@ class IFrameWrapper extends reactToWebComponent(IFrame, React, ReactDOM, {
   });
 }
 
-customElements.define("nintex-react-iframe", IFrameWrapper);
+customElements.define("chat-react-iframe", IFrameWrapper);
